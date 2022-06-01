@@ -1,0 +1,62 @@
+{
+    "name": "nf-core/quaisar",
+    "homePage": "https://github.com/nf-core/quaisar",
+    "repos": {
+        "nf-core/modules": {
+            "bbmap/bbduk": {
+                "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
+            },
+            "custom/dumpsoftwareversions": {
+                "git_sha": "20d8250d9f39ddb05dfb437603aaf99b5c0b2b41"
+            },
+            "fastani": {
+                "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
+            },
+            "fastp": {
+                "git_sha": "d0a1cbb703a130c19f6796c3fce24fbe7dfce789"
+            },
+            "fastqc": {
+                "git_sha": "9d0cad583b9a71a6509b754fdf589cbfbed08961"
+            },
+            "gamma": {
+                "git_sha": "378fa5fbb47ed7c8211b01acb5cf1f66111c4e13"
+            },
+            "kraken2/kraken2": {
+                "git_sha": "abe025677cdd805cc93032341ab19885473c1a07"
+            },
+            "krona/kronadb": {
+                "git_sha": "a6086f549d1e10627ed5caa26f8e8d6485125869"
+            },
+            "krona/ktimporttaxonomy": {
+                "git_sha": "9083d3bb3dfeae8dc61d6a2e9e097468af5fafcd"
+            },
+            "krona/ktimporttext": {
+                "git_sha": "cdefbec66999c0b49d8bfeea9d6f9d19056635a2"
+            },
+            "mash/dist": {
+                "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
+            },
+            "mash/sketch": {
+                "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
+            },
+            "mashtree": {
+                "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
+            },
+            "mlst": {
+                "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
+            },
+            "multiqc": {
+                "git_sha": "20d8250d9f39ddb05dfb437603aaf99b5c0b2b41"
+            },
+            "prokka": {
+                "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
+            },
+            "quast": {
+                "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
+            },
+            "srst2/srst2": {
+                "git_sha": "24dc2d21132b07b4c3d36c9836885427a5019b11"
+            }
+        }
+    }
+}
